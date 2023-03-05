@@ -1,0 +1,9 @@
+# ninja log v5
+0	213	6997467622688591	CMakeFiles/Stack.dir/main.c.obj	f1180dbed5bee7c9
+216	535	6997467625757218	Stack.exe	aa01e3ad2f107d28
+4	200	6997469384488577	CMakeFiles/Stack.dir/main.c.obj	f1180dbed5bee7c9
+202	450	6997469386976742	Stack.exe	aa01e3ad2f107d28
+5	157	6997469667552129	CMakeFiles/Stack.dir/main.c.obj	f1180dbed5bee7c9
+158	350	6997469669415805	Stack.exe	aa01e3ad2f107d28
+5	140	6997470035399522	CMakeFiles/Stack.dir/main.c.obj	f1180dbed5bee7c9
+141	302	6997470036956128	Stack.exe	aa01e3ad2f107d28
