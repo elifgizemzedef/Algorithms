@@ -1,6 +1,5 @@
 # ninja log v5
 1	217	6997473457044823	CMakeFiles/LinkedList.dir/main.cpp.obj	177639d71e10433c
-220	461	6997473459359236	LinkedList.exe	c84fdc5c4082426e
-9	454	6997474654937174	build.ninja	6fd2b1c27f47c9ca
-1	169	6997474658067906	CMakeFiles/LinkedList.dir/main.c.obj	7f4e12aa1e28728b
 171	360	6997474659901347	LinkedList.exe	f1e56302cc99d8ba
+9	454	6997889909907998	build.ninja	6fd2b1c27f47c9ca
+1	169	6997474658067906	CMakeFiles/LinkedList.dir/main.c.obj	7f4e12aa1e28728b

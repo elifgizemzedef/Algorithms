@@ -1,0 +1,3 @@
+C:/Users/elifg/CLionProjects/lab1_191180093_elifgizem_zedef/cmake-build-debug/CMakeFiles/lab1_191180093_elifgizem_zedef.dir
+C:/Users/elifg/CLionProjects/lab1_191180093_elifgizem_zedef/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elifg/CLionProjects/lab1_191180093_elifgizem_zedef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
