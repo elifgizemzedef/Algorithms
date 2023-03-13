@@ -1,0 +1,27 @@
+# ninja log v5
+1	204	7003975982442524	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+206	417	7003975984491190	RecursiveandIterative.exe	25b70501c6bc94f6
+4	138	7003977833870864	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+139	281	7003977835237833	RecursiveandIterative.exe	25b70501c6bc94f6
+3	118	7003978112796252	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+119	263	7003978114175661	RecursiveandIterative.exe	25b70501c6bc94f6
+3	122	7003978228899986	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+123	273	7003978230340670	RecursiveandIterative.exe	25b70501c6bc94f6
+3	128	7003980853677618	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+130	274	7003980855074607	RecursiveandIterative.exe	25b70501c6bc94f6
+3	121	7003982999425031	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+122	264	7003983000798496	RecursiveandIterative.exe	25b70501c6bc94f6
+3	123	7003983410340374	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+124	317	7003983412212087	RecursiveandIterative.exe	25b70501c6bc94f6
+4	136	7003983676445675	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+137	292	7003983677951110	RecursiveandIterative.exe	25b70501c6bc94f6
+3	131	7003985068174236	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+132	275	7003985069558656	RecursiveandIterative.exe	25b70501c6bc94f6
+4	138	7003986971107282	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+139	280	7003986972458798	RecursiveandIterative.exe	25b70501c6bc94f6
+3	130	7003990163701507	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+131	284	7003990165166413	RecursiveandIterative.exe	25b70501c6bc94f6
+3	128	7003998511125010	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+129	275	7003998512532035	RecursiveandIterative.exe	25b70501c6bc94f6
+3	131	7004000302121338	CMakeFiles/RecursiveandIterative.dir/main.c.obj	a9a9ca23ee2b6fb4
+133	297	7004000303729635	RecursiveandIterative.exe	25b70501c6bc94f6
