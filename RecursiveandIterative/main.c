@@ -11,9 +11,9 @@ void push(struct Node** headRef, int newData) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     newNode->data = newData;
     newNode->next = (*headRef);
-    (*headRef) = newNode;
+    (*headRef) = newNode;// changing the head this is the way list's head shows last element of list. kinda like stack
 }
-int isPrimenumber(int n) {
+int isPrimenumber(int n) {//works like everyone knows :)
     if (n <= 1) {
         return 0;
     }
@@ -66,24 +66,24 @@ int isSortedIterative(struct Node* head) {
     struct Node* current = head;
     while (current->next != NULL) {//we don't use recursive here so continue to do that until next is null
         if (current->data < current->next->data) {//one element eneough to be not sortet so return 0 then
-            printf("List is not sorted \n");
+            printf("List is not sorted,you added numbers from smallest to biggest \n");
             return 0;
         }
         current = current->next;//we need to continue with next node
     }
-    printf("List is sorted\n");
+    printf("List is sorted, no worries. Everyone makes mistakes\n");
     return 1;
 }
 
 int isSortedRecursive(struct Node* head) {
     // check if list is null or next node doesn't exist
     if (head == NULL || head->next == NULL) {
-        printf("we can say yes\n");
+        printf("we can say yes you added numbers from smallest to biggest \n");
         return 1;
     }
     //if list not sorted it will go into that if
     if (head->data < head->next->data) {
-        printf("ops\n");
+        printf("ops, everyone makes mistakes\n");
         return 0;
     }
     //we look list two by two
@@ -99,13 +99,14 @@ int main() {
     printf("Enter the number of elements: ");
     scanf("%d", &n);
     printf("~ ~ ~ ~ Please Enter the elements: ~ ~ ~ ~\n");
+    //Take numbers like it is given
     for (int i = 0; i < n; i++) {
         printf("element %d is : ",(i+1));
         scanf("%d", &num);
         push(&head, num);
     }
     int sortwith;
-    printf("~ ~ ~ ~ How do you want to check Recursively or iteratively ~ ~ ~ ~  \n");
+    printf("~ ~ ~ ~ How do you want to check if list is sorted or not. Recursively or iteratively ~ ~ ~ ~  \n");
     printf("~ ~ ~ ~ 1 is Recursive 0 is iterative ~ ~ ~ ~  \n");
     scanf("%d",&sortwith);
     //printf("%d",sortwith);
