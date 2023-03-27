@@ -85,7 +85,6 @@ Node* dequeue(Queue* queue) {
 int get_size(Queue* queue) {
     return queue->rear - queue->front + 1;
 }
-// Free memory allocated for binary tree
 void free_tree(Node* root) {
     if (root != NULL) {
         free_tree(root->left);
@@ -134,7 +133,7 @@ void dfs(Node* node, int k, int level) {
 int main() {
     Node* root = NULL;
 
-    // Insert positive integers into binary tree until 0 is entered
+
     int num;
     do {
         printf("Enter a positive integer (or 0 to stop): \n");
@@ -151,7 +150,6 @@ int main() {
     printf("~~~~ BFS ~~~~\n");
     print_bfs(root);
 
-    // Traverse binary tree using BFS and perform XOR operation with k
     Queue* queue = create_queue();
     enqueue(queue, root);
     int level = 1;
@@ -180,7 +178,6 @@ int main() {
     dfs(root,k,1);
 
 
-    // Free memory allocated for binary tree
     free_tree(root);
 
     return 0;
