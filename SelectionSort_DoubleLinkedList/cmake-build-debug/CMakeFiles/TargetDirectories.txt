@@ -1,0 +1,3 @@
+C:/Users/elifg/CLionProjects/SelectionSort_DoubleLinkedList/cmake-build-debug/CMakeFiles/SelectionSort_DoubleLinkedList.dir
+C:/Users/elifg/CLionProjects/SelectionSort_DoubleLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elifg/CLionProjects/SelectionSort_DoubleLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

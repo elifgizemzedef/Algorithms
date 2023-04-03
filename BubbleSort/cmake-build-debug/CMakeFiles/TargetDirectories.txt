@@ -1,0 +1,3 @@
+C:/Users/elifg/CLionProjects/BubbleSort/cmake-build-debug/CMakeFiles/BubbleSort.dir
+C:/Users/elifg/CLionProjects/BubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elifg/CLionProjects/BubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
