@@ -1,0 +1,17 @@
+# ninja log v5
+1	181	7027859691170161	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+183	371	7027859693016715	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+4	128	7027860103087594	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+129	262	7027860104379237	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+4	133	7027861052642589	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+134	273	7027861053997842	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+3	139	7027862855446751	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+145	301	7027862857008262	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+5	128	7027863207942419	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+130	276	7027863209388524	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+4	126	7027865434576916	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+130	277	7027865436028214	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+3	128	7027868270436693	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+130	261	7027868271703974	QuickSort_LinkedList.exe	3c2d45e1c534b45f
+3	110	7027869167584662	CMakeFiles/QuickSort_LinkedList.dir/main.c.obj	759197a208e47e08
+111	241	7027869168841176	QuickSort_LinkedList.exe	3c2d45e1c534b45f
