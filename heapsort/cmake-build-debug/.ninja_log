@@ -1,0 +1,5 @@
+# ninja log v5
+1	174	7050840956478473	CMakeFiles/heapsort.dir/main.c.obj	62eb31906e232d91
+176	540	7050840960088903	heapsort.exe	327c244e81abc5c8
+4	310	7050864426175640	CMakeFiles/heapsort.dir/main.c.obj	62eb31906e232d91
+311	667	7050864429678983	heapsort.exe	327c244e81abc5c8
